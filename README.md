@@ -2,6 +2,19 @@
 
 A Python ingestion script that loads structured movie records into a Neo4j knowledge graph. The current project covers parsing and graph ingestion; it does not yet include a retrieval or chat interface.
 
+## Workflow
+
+```mermaid
+flowchart LR
+	A[Movie text files in corpus/] --> B[Discover .txt files]
+	B --> C[Connect to Neo4j]
+	C --> D[Create uniqueness constraints]
+	D --> E[Parse movie fields]
+	E --> F[Merge movie and entity nodes]
+	F --> G[Create graph relationships]
+	G --> H[Print graph counts]
+```
+
 ## Requirements
 
 - Python
@@ -41,6 +54,19 @@ The script reads every `.txt` file in `corpus/`, creates uniqueness constraints,
 - Relationships: `DIRECTED`, `WROTE`, `ACTED_IN`, `HAS_GENRE`, `FROM_COUNTRY`, `HAS_THEME`, and `THEMATICALLY_RELATED_TO`
 
 Movie nodes store their title, year, and plot. The parser expects labeled fields such as `MOVIE ID`, `TITLE`, `YEAR`, `GENRES`, and sections such as `DIRECTOR`, `CAST`, `PLOT`, and `THEMES`; see the existing files in `corpus/` for examples.
+
+## Example Graph
+
+This example shows a subset of the relationships created for the Inception record:
+
+```mermaid
+flowchart LR
+	director["Person: Christopher Nolan"] -->|DIRECTED| inception["Movie: Inception (2010)"]
+	actor["Person: Leonardo DiCaprio"] -->|ACTED_IN| inception
+	inception -->|HAS_GENRE| scifi["Genre: Sci-Fi"]
+	inception -->|FROM_COUNTRY| country["Country: United States"]
+	inception -->|THEMATICALLY_RELATED_TO| interstellar["Movie: Interstellar"]
+```
 
 ## Data
 
