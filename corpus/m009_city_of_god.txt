@@ -1,0 +1,49 @@
+MOVIE ID: m009
+TITLE: City of God
+YEAR: 2002
+GENRES: Crime, Drama
+COUNTRY: Brazil
+
+DIRECTOR:
+Fernando Meirelles, Kátia Lund
+
+WRITER:
+Bráulio Mantovani
+
+CAST:
+- Alexandre Rodrigues
+- Leandro Firmino
+- Phellipe Haagensen
+- Douglas Silva
+- Alice Braga
+
+PLOT:
+In a violent neighborhood of Rio de Janeiro, a young aspiring photographer observes the rise of organized crime and the people caught within it.
+
+THEMES:
+- crime
+- poverty
+- violence
+- ambition
+- community
+- photography
+
+RELATED MOVIES:
+- The Godfather
+- Parasite
+- Bicycle Thieves
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Fernando Meirelles, Kátia Lund -> DIRECTED -> City of God
+- Alexandre Rodrigues -> ACTED_IN -> City of God
+- Leandro Firmino -> ACTED_IN -> City of God
+- Phellipe Haagensen -> ACTED_IN -> City of God
+- Douglas Silva -> ACTED_IN -> City of God
+- Alice Braga -> ACTED_IN -> City of God
+- City of God -> HAS_GENRE -> Crime
+- City of God -> HAS_GENRE -> Drama
+- City of God -> PRODUCED_IN -> Brazil
+- City of God -> RELEASED_IN -> 2002
+- City of God -> THEMATICALLY_RELATED_TO -> The Godfather
+- City of God -> THEMATICALLY_RELATED_TO -> Parasite
+- City of God -> THEMATICALLY_RELATED_TO -> Bicycle Thieves

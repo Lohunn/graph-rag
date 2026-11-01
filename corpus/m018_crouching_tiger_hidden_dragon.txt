@@ -1,0 +1,47 @@
+MOVIE ID: m018
+TITLE: Crouching Tiger Hidden Dragon
+YEAR: 2000
+GENRES: Wuxia, Action
+COUNTRY: Taiwan
+
+DIRECTOR:
+Ang Lee
+
+WRITER:
+Wang Hui-ling, Kuo Jung Tsai, James Schamus
+
+CAST:
+- Chow Yun-fat
+- Michelle Yeoh
+- Zhang Ziyi
+- Chang Chen
+
+PLOT:
+Two experienced martial artists pursue a stolen sword while becoming entangled with a rebellious young aristocrat and a secretive warrior.
+
+THEMES:
+- honor
+- love
+- freedom
+- martial arts
+- duty
+- tradition
+
+RELATED MOVIES:
+- Seven Samurai
+- The Matrix
+- Oldboy
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Ang Lee -> DIRECTED -> Crouching Tiger Hidden Dragon
+- Chow Yun-fat -> ACTED_IN -> Crouching Tiger Hidden Dragon
+- Michelle Yeoh -> ACTED_IN -> Crouching Tiger Hidden Dragon
+- Zhang Ziyi -> ACTED_IN -> Crouching Tiger Hidden Dragon
+- Chang Chen -> ACTED_IN -> Crouching Tiger Hidden Dragon
+- Crouching Tiger Hidden Dragon -> HAS_GENRE -> Wuxia
+- Crouching Tiger Hidden Dragon -> HAS_GENRE -> Action
+- Crouching Tiger Hidden Dragon -> PRODUCED_IN -> Taiwan
+- Crouching Tiger Hidden Dragon -> RELEASED_IN -> 2000
+- Crouching Tiger Hidden Dragon -> THEMATICALLY_RELATED_TO -> Seven Samurai
+- Crouching Tiger Hidden Dragon -> THEMATICALLY_RELATED_TO -> The Matrix
+- Crouching Tiger Hidden Dragon -> THEMATICALLY_RELATED_TO -> Oldboy

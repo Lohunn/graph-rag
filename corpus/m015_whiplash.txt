@@ -1,0 +1,47 @@
+MOVIE ID: m015
+TITLE: Whiplash
+YEAR: 2014
+GENRES: Drama, Music
+COUNTRY: United States
+
+DIRECTOR:
+Damien Chazelle
+
+WRITER:
+Damien Chazelle
+
+CAST:
+- Miles Teller
+- J. K. Simmons
+- Paul Reiser
+- Melissa Benoist
+
+PLOT:
+An ambitious young jazz drummer enters an elite conservatory and faces an intensely demanding instructor who pushes him toward artistic perfection.
+
+THEMES:
+- ambition
+- perfectionism
+- music
+- discipline
+- mentorship
+- obsession
+
+RELATED MOVIES:
+- La La Land
+- Black Swan
+- The Dark Knight
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Damien Chazelle -> DIRECTED -> Whiplash
+- Miles Teller -> ACTED_IN -> Whiplash
+- J. K. Simmons -> ACTED_IN -> Whiplash
+- Paul Reiser -> ACTED_IN -> Whiplash
+- Melissa Benoist -> ACTED_IN -> Whiplash
+- Whiplash -> HAS_GENRE -> Drama
+- Whiplash -> HAS_GENRE -> Music
+- Whiplash -> PRODUCED_IN -> United States
+- Whiplash -> RELEASED_IN -> 2014
+- Whiplash -> THEMATICALLY_RELATED_TO -> La La Land
+- Whiplash -> THEMATICALLY_RELATED_TO -> Black Swan
+- Whiplash -> THEMATICALLY_RELATED_TO -> The Dark Knight

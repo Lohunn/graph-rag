@@ -1,0 +1,51 @@
+MOVIE ID: m006
+TITLE: Parasite
+YEAR: 2019
+GENRES: Thriller, Drama
+COUNTRY: South Korea
+
+DIRECTOR:
+Bong Joon Ho
+
+WRITER:
+Bong Joon Ho, Han Jin Won
+
+CAST:
+- Song Kang-ho
+- Lee Sun-kyun
+- Cho Yeo-jeong
+- Choi Woo-shik
+- Park So-dam
+- Jang Hye-jin
+
+PLOT:
+A struggling family gradually enters the household of a wealthy family by taking jobs there, creating an unstable relationship shaped by class divisions and deception.
+
+THEMES:
+- class
+- wealth
+- poverty
+- deception
+- family
+- social inequality
+
+RELATED MOVIES:
+- Oldboy
+- Shoplifters
+- The Lives of Others
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Bong Joon Ho -> DIRECTED -> Parasite
+- Song Kang-ho -> ACTED_IN -> Parasite
+- Lee Sun-kyun -> ACTED_IN -> Parasite
+- Cho Yeo-jeong -> ACTED_IN -> Parasite
+- Choi Woo-shik -> ACTED_IN -> Parasite
+- Park So-dam -> ACTED_IN -> Parasite
+- Jang Hye-jin -> ACTED_IN -> Parasite
+- Parasite -> HAS_GENRE -> Thriller
+- Parasite -> HAS_GENRE -> Drama
+- Parasite -> PRODUCED_IN -> South Korea
+- Parasite -> RELEASED_IN -> 2019
+- Parasite -> THEMATICALLY_RELATED_TO -> Oldboy
+- Parasite -> THEMATICALLY_RELATED_TO -> Shoplifters
+- Parasite -> THEMATICALLY_RELATED_TO -> The Lives of Others

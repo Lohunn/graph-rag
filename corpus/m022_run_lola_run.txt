@@ -1,0 +1,45 @@
+MOVIE ID: m022
+TITLE: Run Lola Run
+YEAR: 1998
+GENRES: Thriller, Action
+COUNTRY: Germany
+
+DIRECTOR:
+Tom Tykwer
+
+WRITER:
+Tom Tykwer
+
+CAST:
+- Franka Potente
+- Moritz Bleibtreu
+- Herbert Knaup
+
+PLOT:
+A woman has a short amount of time to obtain money and save her boyfriend, with the story exploring alternate versions of events.
+
+THEMES:
+- time
+- fate
+- choice
+- chance
+- love
+- alternate realities
+
+RELATED MOVIES:
+- The Matrix
+- Inception
+- The Lives of Others
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Tom Tykwer -> DIRECTED -> Run Lola Run
+- Franka Potente -> ACTED_IN -> Run Lola Run
+- Moritz Bleibtreu -> ACTED_IN -> Run Lola Run
+- Herbert Knaup -> ACTED_IN -> Run Lola Run
+- Run Lola Run -> HAS_GENRE -> Thriller
+- Run Lola Run -> HAS_GENRE -> Action
+- Run Lola Run -> PRODUCED_IN -> Germany
+- Run Lola Run -> RELEASED_IN -> 1998
+- Run Lola Run -> THEMATICALLY_RELATED_TO -> The Matrix
+- Run Lola Run -> THEMATICALLY_RELATED_TO -> Inception
+- Run Lola Run -> THEMATICALLY_RELATED_TO -> The Lives of Others

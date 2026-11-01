@@ -1,0 +1,47 @@
+MOVIE ID: m005
+TITLE: Arrival
+YEAR: 2016
+GENRES: Sci-Fi, Mystery
+COUNTRY: United States
+
+DIRECTOR:
+Denis Villeneuve
+
+WRITER:
+Eric Heisserer
+
+CAST:
+- Amy Adams
+- Jeremy Renner
+- Forest Whitaker
+- Michael Stuhlbarg
+
+PLOT:
+A linguist is recruited to communicate with mysterious extraterrestrial visitors and discovers that understanding their language changes her perception of time.
+
+THEMES:
+- language
+- communication
+- time
+- memory
+- choice
+- humanity
+
+RELATED MOVIES:
+- Interstellar
+- The Matrix
+- Incendies
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Denis Villeneuve -> DIRECTED -> Arrival
+- Amy Adams -> ACTED_IN -> Arrival
+- Jeremy Renner -> ACTED_IN -> Arrival
+- Forest Whitaker -> ACTED_IN -> Arrival
+- Michael Stuhlbarg -> ACTED_IN -> Arrival
+- Arrival -> HAS_GENRE -> Sci-Fi
+- Arrival -> HAS_GENRE -> Mystery
+- Arrival -> PRODUCED_IN -> United States
+- Arrival -> RELEASED_IN -> 2016
+- Arrival -> THEMATICALLY_RELATED_TO -> Interstellar
+- Arrival -> THEMATICALLY_RELATED_TO -> The Matrix
+- Arrival -> THEMATICALLY_RELATED_TO -> Incendies

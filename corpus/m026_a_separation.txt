@@ -1,0 +1,47 @@
+MOVIE ID: m026
+TITLE: A Separation
+YEAR: 2011
+GENRES: Drama, Mystery
+COUNTRY: Iran
+
+DIRECTOR:
+Asghar Farhadi
+
+WRITER:
+Asghar Farhadi
+
+CAST:
+- Leila Hatami
+- Peyman Moaadi
+- Shahab Hosseini
+- Sareh Bayat
+
+PLOT:
+A married couple faces a difficult separation while a dispute involving a caregiver creates legal, moral, and family conflicts.
+
+THEMES:
+- family
+- morality
+- truth
+- class
+- justice
+- responsibility
+
+RELATED MOVIES:
+- The Lives of Others
+- Roma
+- Incendies
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Asghar Farhadi -> DIRECTED -> A Separation
+- Leila Hatami -> ACTED_IN -> A Separation
+- Peyman Moaadi -> ACTED_IN -> A Separation
+- Shahab Hosseini -> ACTED_IN -> A Separation
+- Sareh Bayat -> ACTED_IN -> A Separation
+- A Separation -> HAS_GENRE -> Drama
+- A Separation -> HAS_GENRE -> Mystery
+- A Separation -> PRODUCED_IN -> Iran
+- A Separation -> RELEASED_IN -> 2011
+- A Separation -> THEMATICALLY_RELATED_TO -> The Lives of Others
+- A Separation -> THEMATICALLY_RELATED_TO -> Roma
+- A Separation -> THEMATICALLY_RELATED_TO -> Incendies

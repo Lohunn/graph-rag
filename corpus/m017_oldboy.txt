@@ -1,0 +1,45 @@
+MOVIE ID: m017
+TITLE: Oldboy
+YEAR: 2003
+GENRES: Action, Mystery
+COUNTRY: South Korea
+
+DIRECTOR:
+Park Chan-wook
+
+WRITER:
+Park Chan-wook, Hwang Jo-yoon, Lim Joon-hyung
+
+CAST:
+- Choi Min-sik
+- Yoo Ji-tae
+- Kang Hye-jung
+
+PLOT:
+A man is inexplicably imprisoned for years and then released, beginning a violent investigation into who imprisoned him and why.
+
+THEMES:
+- revenge
+- mystery
+- identity
+- trauma
+- violence
+- memory
+
+RELATED MOVIES:
+- Parasite
+- The Lives of Others
+- Pulp Fiction
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Park Chan-wook -> DIRECTED -> Oldboy
+- Choi Min-sik -> ACTED_IN -> Oldboy
+- Yoo Ji-tae -> ACTED_IN -> Oldboy
+- Kang Hye-jung -> ACTED_IN -> Oldboy
+- Oldboy -> HAS_GENRE -> Action
+- Oldboy -> HAS_GENRE -> Mystery
+- Oldboy -> PRODUCED_IN -> South Korea
+- Oldboy -> RELEASED_IN -> 2003
+- Oldboy -> THEMATICALLY_RELATED_TO -> Parasite
+- Oldboy -> THEMATICALLY_RELATED_TO -> The Lives of Others
+- Oldboy -> THEMATICALLY_RELATED_TO -> Pulp Fiction

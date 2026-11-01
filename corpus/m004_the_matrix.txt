@@ -1,0 +1,49 @@
+MOVIE ID: m004
+TITLE: The Matrix
+YEAR: 1999
+GENRES: Sci-Fi, Action
+COUNTRY: United States
+
+DIRECTOR:
+Lana Wachowski, Lilly Wachowski
+
+WRITER:
+Lana Wachowski, Lilly Wachowski
+
+CAST:
+- Keanu Reeves
+- Laurence Fishburne
+- Carrie-Anne Moss
+- Hugo Weaving
+- Joe Pantoliano
+
+PLOT:
+A computer programmer discovers that the world he experiences is a simulated reality created by machines and joins a rebellion seeking human freedom.
+
+THEMES:
+- reality
+- technology
+- freedom
+- identity
+- control
+- simulation
+
+RELATED MOVIES:
+- Inception
+- Interstellar
+- Metropolis
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Lana Wachowski, Lilly Wachowski -> DIRECTED -> The Matrix
+- Keanu Reeves -> ACTED_IN -> The Matrix
+- Laurence Fishburne -> ACTED_IN -> The Matrix
+- Carrie-Anne Moss -> ACTED_IN -> The Matrix
+- Hugo Weaving -> ACTED_IN -> The Matrix
+- Joe Pantoliano -> ACTED_IN -> The Matrix
+- The Matrix -> HAS_GENRE -> Sci-Fi
+- The Matrix -> HAS_GENRE -> Action
+- The Matrix -> PRODUCED_IN -> United States
+- The Matrix -> RELEASED_IN -> 1999
+- The Matrix -> THEMATICALLY_RELATED_TO -> Inception
+- The Matrix -> THEMATICALLY_RELATED_TO -> Interstellar
+- The Matrix -> THEMATICALLY_RELATED_TO -> Metropolis

@@ -1,0 +1,47 @@
+MOVIE ID: m020
+TITLE: Another Round
+YEAR: 2020
+GENRES: Drama, Comedy
+COUNTRY: Denmark
+
+DIRECTOR:
+Thomas Vinterberg
+
+WRITER:
+Thomas Vinterberg, Tobias Lindholm
+
+CAST:
+- Mads Mikkelsen
+- Thomas Bo Larsen
+- Magnus Millang
+- Lars Ranthe
+
+PLOT:
+Four teachers experiment with maintaining a constant level of alcohol in their blood, believing it may improve their professional and personal lives.
+
+THEMES:
+- friendship
+- alcohol
+- identity
+- midlife
+- experimentation
+- freedom
+
+RELATED MOVIES:
+- The Intouchables
+- The Worst Person in the World
+- Whiplash
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Thomas Vinterberg -> DIRECTED -> Another Round
+- Mads Mikkelsen -> ACTED_IN -> Another Round
+- Thomas Bo Larsen -> ACTED_IN -> Another Round
+- Magnus Millang -> ACTED_IN -> Another Round
+- Lars Ranthe -> ACTED_IN -> Another Round
+- Another Round -> HAS_GENRE -> Drama
+- Another Round -> HAS_GENRE -> Comedy
+- Another Round -> PRODUCED_IN -> Denmark
+- Another Round -> RELEASED_IN -> 2020
+- Another Round -> THEMATICALLY_RELATED_TO -> The Intouchables
+- Another Round -> THEMATICALLY_RELATED_TO -> The Worst Person in the World
+- Another Round -> THEMATICALLY_RELATED_TO -> Whiplash

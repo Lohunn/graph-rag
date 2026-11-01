@@ -1,0 +1,47 @@
+MOVIE ID: m007
+TITLE: Spirited Away
+YEAR: 2001
+GENRES: Animation, Fantasy
+COUNTRY: Japan
+
+DIRECTOR:
+Hayao Miyazaki
+
+WRITER:
+Hayao Miyazaki
+
+CAST:
+- Rumi Hiiragi
+- Miyu Irino
+- Mari Natsuki
+- Bunta Sugawara
+
+PLOT:
+A young girl becomes trapped in a mysterious spirit world and must work in a magical bathhouse while trying to rescue her transformed parents and return home.
+
+THEMES:
+- identity
+- growing up
+- greed
+- courage
+- spirits
+- family
+
+RELATED MOVIES:
+- Princess Mononoke
+- Cinema Paradiso
+- Pan's Labyrinth
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Hayao Miyazaki -> DIRECTED -> Spirited Away
+- Rumi Hiiragi -> ACTED_IN -> Spirited Away
+- Miyu Irino -> ACTED_IN -> Spirited Away
+- Mari Natsuki -> ACTED_IN -> Spirited Away
+- Bunta Sugawara -> ACTED_IN -> Spirited Away
+- Spirited Away -> HAS_GENRE -> Animation
+- Spirited Away -> HAS_GENRE -> Fantasy
+- Spirited Away -> PRODUCED_IN -> Japan
+- Spirited Away -> RELEASED_IN -> 2001
+- Spirited Away -> THEMATICALLY_RELATED_TO -> Princess Mononoke
+- Spirited Away -> THEMATICALLY_RELATED_TO -> Cinema Paradiso
+- Spirited Away -> THEMATICALLY_RELATED_TO -> Pan's Labyrinth

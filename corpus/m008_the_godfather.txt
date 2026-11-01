@@ -1,0 +1,51 @@
+MOVIE ID: m008
+TITLE: The Godfather
+YEAR: 1972
+GENRES: Crime, Drama
+COUNTRY: United States
+
+DIRECTOR:
+Francis Ford Coppola
+
+WRITER:
+Mario Puzo, Francis Ford Coppola
+
+CAST:
+- Marlon Brando
+- Al Pacino
+- James Caan
+- Robert Duvall
+- Diane Keaton
+- Talia Shire
+
+PLOT:
+The aging head of an organized-crime family transfers responsibility to his reluctant son, drawing the son into a violent struggle for power and family survival.
+
+THEMES:
+- family
+- power
+- loyalty
+- crime
+- violence
+- tradition
+
+RELATED MOVIES:
+- The Dark Knight
+- City of God
+- Pulp Fiction
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Francis Ford Coppola -> DIRECTED -> The Godfather
+- Marlon Brando -> ACTED_IN -> The Godfather
+- Al Pacino -> ACTED_IN -> The Godfather
+- James Caan -> ACTED_IN -> The Godfather
+- Robert Duvall -> ACTED_IN -> The Godfather
+- Diane Keaton -> ACTED_IN -> The Godfather
+- Talia Shire -> ACTED_IN -> The Godfather
+- The Godfather -> HAS_GENRE -> Crime
+- The Godfather -> HAS_GENRE -> Drama
+- The Godfather -> PRODUCED_IN -> United States
+- The Godfather -> RELEASED_IN -> 1972
+- The Godfather -> THEMATICALLY_RELATED_TO -> The Dark Knight
+- The Godfather -> THEMATICALLY_RELATED_TO -> City of God
+- The Godfather -> THEMATICALLY_RELATED_TO -> Pulp Fiction

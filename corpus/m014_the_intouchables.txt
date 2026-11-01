@@ -1,0 +1,47 @@
+MOVIE ID: m014
+TITLE: The Intouchables
+YEAR: 2011
+GENRES: Comedy, Drama
+COUNTRY: France
+
+DIRECTOR:
+Olivier Nakache, Éric Toledano
+
+WRITER:
+Olivier Nakache, Éric Toledano
+
+CAST:
+- François Cluzet
+- Omar Sy
+- Anne Le Ny
+- Audrey Fleurot
+
+PLOT:
+A wealthy quadriplegic man develops an unlikely friendship with a young man he hires as his caregiver, changing both of their lives.
+
+THEMES:
+- friendship
+- disability
+- class
+- caregiving
+- humor
+- human connection
+
+RELATED MOVIES:
+- Amélie
+- Another Round
+- The Worst Person in the World
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Olivier Nakache, Éric Toledano -> DIRECTED -> The Intouchables
+- François Cluzet -> ACTED_IN -> The Intouchables
+- Omar Sy -> ACTED_IN -> The Intouchables
+- Anne Le Ny -> ACTED_IN -> The Intouchables
+- Audrey Fleurot -> ACTED_IN -> The Intouchables
+- The Intouchables -> HAS_GENRE -> Comedy
+- The Intouchables -> HAS_GENRE -> Drama
+- The Intouchables -> PRODUCED_IN -> France
+- The Intouchables -> RELEASED_IN -> 2011
+- The Intouchables -> THEMATICALLY_RELATED_TO -> Amélie
+- The Intouchables -> THEMATICALLY_RELATED_TO -> Another Round
+- The Intouchables -> THEMATICALLY_RELATED_TO -> The Worst Person in the World

@@ -1,0 +1,47 @@
+MOVIE ID: m027
+TITLE: Chungking Express
+YEAR: 1994
+GENRES: Romance, Drama
+COUNTRY: Hong Kong
+
+DIRECTOR:
+Wong Kar-wai
+
+WRITER:
+Wong Kar-wai
+
+CAST:
+- Brigitte Lin
+- Takeshi Kaneshiro
+- Tony Leung Chiu-wai
+- Faye Wong
+
+PLOT:
+Two loosely connected stories follow police officers experiencing romantic uncertainty and encounters with strangers in Hong Kong.
+
+THEMES:
+- love
+- loneliness
+- urban life
+- time
+- memory
+- chance
+
+RELATED MOVIES:
+- Amélie
+- La La Land
+- The Worst Person in the World
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Wong Kar-wai -> DIRECTED -> Chungking Express
+- Brigitte Lin -> ACTED_IN -> Chungking Express
+- Takeshi Kaneshiro -> ACTED_IN -> Chungking Express
+- Tony Leung Chiu-wai -> ACTED_IN -> Chungking Express
+- Faye Wong -> ACTED_IN -> Chungking Express
+- Chungking Express -> HAS_GENRE -> Romance
+- Chungking Express -> HAS_GENRE -> Drama
+- Chungking Express -> PRODUCED_IN -> Hong Kong
+- Chungking Express -> RELEASED_IN -> 1994
+- Chungking Express -> THEMATICALLY_RELATED_TO -> Amélie
+- Chungking Express -> THEMATICALLY_RELATED_TO -> La La Land
+- Chungking Express -> THEMATICALLY_RELATED_TO -> The Worst Person in the World

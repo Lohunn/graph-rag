@@ -1,0 +1,47 @@
+MOVIE ID: m028
+TITLE: Incendies
+YEAR: 2010
+GENRES: Drama, Mystery
+COUNTRY: Canada
+
+DIRECTOR:
+Denis Villeneuve
+
+WRITER:
+Denis Villeneuve, Valérie Beaugrand-Champagne
+
+CAST:
+- Lubna Azabal
+- Mélissa Désormeaux-Poulin
+- Maxim Gaudette
+- Rémy Girard
+
+PLOT:
+After their mother's death, twins travel to the Middle East to uncover the hidden history of their family and the circumstances surrounding their mother's past.
+
+THEMES:
+- family
+- war
+- identity
+- trauma
+- secrets
+- memory
+
+RELATED MOVIES:
+- Arrival
+- A Separation
+- Oldboy
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Denis Villeneuve -> DIRECTED -> Incendies
+- Lubna Azabal -> ACTED_IN -> Incendies
+- Mélissa Désormeaux-Poulin -> ACTED_IN -> Incendies
+- Maxim Gaudette -> ACTED_IN -> Incendies
+- Rémy Girard -> ACTED_IN -> Incendies
+- Incendies -> HAS_GENRE -> Drama
+- Incendies -> HAS_GENRE -> Mystery
+- Incendies -> PRODUCED_IN -> Canada
+- Incendies -> RELEASED_IN -> 2010
+- Incendies -> THEMATICALLY_RELATED_TO -> Arrival
+- Incendies -> THEMATICALLY_RELATED_TO -> A Separation
+- Incendies -> THEMATICALLY_RELATED_TO -> Oldboy

@@ -1,0 +1,53 @@
+MOVIE ID: m003
+TITLE: The Dark Knight
+YEAR: 2008
+GENRES: Action, Crime
+COUNTRY: United States
+
+DIRECTOR:
+Christopher Nolan
+
+WRITER:
+Jonathan Nolan, Christopher Nolan
+
+CAST:
+- Christian Bale
+- Heath Ledger
+- Aaron Eckhart
+- Michael Caine
+- Gary Oldman
+- Maggie Gyllenhaal
+- Morgan Freeman
+
+PLOT:
+Batman faces a criminal mastermind who seeks to push Gotham City into chaos while a district attorney attempts to fight organized crime through lawful means.
+
+THEMES:
+- justice
+- chaos
+- morality
+- crime
+- sacrifice
+- identity
+
+RELATED MOVIES:
+- Inception
+- Interstellar
+- The Godfather
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Christopher Nolan -> DIRECTED -> The Dark Knight
+- Christian Bale -> ACTED_IN -> The Dark Knight
+- Heath Ledger -> ACTED_IN -> The Dark Knight
+- Aaron Eckhart -> ACTED_IN -> The Dark Knight
+- Michael Caine -> ACTED_IN -> The Dark Knight
+- Gary Oldman -> ACTED_IN -> The Dark Knight
+- Maggie Gyllenhaal -> ACTED_IN -> The Dark Knight
+- Morgan Freeman -> ACTED_IN -> The Dark Knight
+- The Dark Knight -> HAS_GENRE -> Action
+- The Dark Knight -> HAS_GENRE -> Crime
+- The Dark Knight -> PRODUCED_IN -> United States
+- The Dark Knight -> RELEASED_IN -> 2008
+- The Dark Knight -> THEMATICALLY_RELATED_TO -> Inception
+- The Dark Knight -> THEMATICALLY_RELATED_TO -> Interstellar
+- The Dark Knight -> THEMATICALLY_RELATED_TO -> The Godfather

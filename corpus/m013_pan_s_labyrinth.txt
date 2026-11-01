@@ -1,0 +1,47 @@
+MOVIE ID: m013
+TITLE: Pan's Labyrinth
+YEAR: 2006
+GENRES: Fantasy, Drama
+COUNTRY: Mexico
+
+DIRECTOR:
+Guillermo del Toro
+
+WRITER:
+Guillermo del Toro
+
+CAST:
+- Ivana Baquero
+- Sergi López
+- Maribel Verdú
+- Doug Jones
+
+PLOT:
+In postwar Spain, a young girl enters a dark fantasy world while living with her mother and authoritarian stepfather.
+
+THEMES:
+- war
+- fantasy
+- innocence
+- oppression
+- imagination
+- rebellion
+
+RELATED MOVIES:
+- Roma
+- Spirited Away
+- The Lives of Others
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Guillermo del Toro -> DIRECTED -> Pan's Labyrinth
+- Ivana Baquero -> ACTED_IN -> Pan's Labyrinth
+- Sergi López -> ACTED_IN -> Pan's Labyrinth
+- Maribel Verdú -> ACTED_IN -> Pan's Labyrinth
+- Doug Jones -> ACTED_IN -> Pan's Labyrinth
+- Pan's Labyrinth -> HAS_GENRE -> Fantasy
+- Pan's Labyrinth -> HAS_GENRE -> Drama
+- Pan's Labyrinth -> PRODUCED_IN -> Mexico
+- Pan's Labyrinth -> RELEASED_IN -> 2006
+- Pan's Labyrinth -> THEMATICALLY_RELATED_TO -> Roma
+- Pan's Labyrinth -> THEMATICALLY_RELATED_TO -> Spirited Away
+- Pan's Labyrinth -> THEMATICALLY_RELATED_TO -> The Lives of Others

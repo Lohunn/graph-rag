@@ -1,0 +1,47 @@
+MOVIE ID: m011
+TITLE: Amélie
+YEAR: 2001
+GENRES: Romance, Comedy
+COUNTRY: France
+
+DIRECTOR:
+Jean-Pierre Jeunet
+
+WRITER:
+Jean-Pierre Jeunet, Guillaume Laurant
+
+CAST:
+- Audrey Tautou
+- Mathieu Kassovitz
+- Rufus
+- Serge Merlin
+
+PLOT:
+A shy young woman living in Paris secretly helps people around her while gradually confronting her own desire for connection and love.
+
+THEMES:
+- love
+- kindness
+- loneliness
+- Paris
+- imagination
+- connection
+
+RELATED MOVIES:
+- The Intouchables
+- La La Land
+- Cinema Paradiso
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Jean-Pierre Jeunet -> DIRECTED -> Amélie
+- Audrey Tautou -> ACTED_IN -> Amélie
+- Mathieu Kassovitz -> ACTED_IN -> Amélie
+- Rufus -> ACTED_IN -> Amélie
+- Serge Merlin -> ACTED_IN -> Amélie
+- Amélie -> HAS_GENRE -> Romance
+- Amélie -> HAS_GENRE -> Comedy
+- Amélie -> PRODUCED_IN -> France
+- Amélie -> RELEASED_IN -> 2001
+- Amélie -> THEMATICALLY_RELATED_TO -> The Intouchables
+- Amélie -> THEMATICALLY_RELATED_TO -> La La Land
+- Amélie -> THEMATICALLY_RELATED_TO -> Cinema Paradiso

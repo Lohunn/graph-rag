@@ -1,0 +1,47 @@
+MOVIE ID: m010
+TITLE: Seven Samurai
+YEAR: 1954
+GENRES: Action, Drama
+COUNTRY: Japan
+
+DIRECTOR:
+Akira Kurosawa
+
+WRITER:
+Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni
+
+CAST:
+- Toshirô Mifune
+- Takashi Shimura
+- Keiko Tsushima
+- Yukiko Shimazaki
+
+PLOT:
+A village threatened by bandits hires seven samurai to organize its defense, bringing together warriors with different personalities and motivations.
+
+THEMES:
+- honor
+- sacrifice
+- community
+- warrior culture
+- leadership
+- survival
+
+RELATED MOVIES:
+- The Godfather
+- Crouching Tiger Hidden Dragon
+- Ran
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Akira Kurosawa -> DIRECTED -> Seven Samurai
+- Toshirô Mifune -> ACTED_IN -> Seven Samurai
+- Takashi Shimura -> ACTED_IN -> Seven Samurai
+- Keiko Tsushima -> ACTED_IN -> Seven Samurai
+- Yukiko Shimazaki -> ACTED_IN -> Seven Samurai
+- Seven Samurai -> HAS_GENRE -> Action
+- Seven Samurai -> HAS_GENRE -> Drama
+- Seven Samurai -> PRODUCED_IN -> Japan
+- Seven Samurai -> RELEASED_IN -> 1954
+- Seven Samurai -> THEMATICALLY_RELATED_TO -> The Godfather
+- Seven Samurai -> THEMATICALLY_RELATED_TO -> Crouching Tiger Hidden Dragon
+- Seven Samurai -> THEMATICALLY_RELATED_TO -> Ran

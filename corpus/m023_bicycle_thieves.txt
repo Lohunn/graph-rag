@@ -1,0 +1,44 @@
+MOVIE ID: m023
+TITLE: Bicycle Thieves
+YEAR: 1948
+GENRES: Drama
+COUNTRY: Italy
+
+DIRECTOR:
+Vittorio De Sica
+
+WRITER:
+Cesare Zavattini, Vittorio De Sica
+
+CAST:
+- Lamberto Maggiorani
+- Enzo Staiola
+- Lianella Carell
+
+PLOT:
+A poor father searches for his stolen bicycle, essential for his new job, while his young son accompanies him through Rome.
+
+THEMES:
+- poverty
+- family
+- work
+- dignity
+- fatherhood
+- social inequality
+
+RELATED MOVIES:
+- City of God
+- Cinema Paradiso
+- Shoplifters
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Vittorio De Sica -> DIRECTED -> Bicycle Thieves
+- Lamberto Maggiorani -> ACTED_IN -> Bicycle Thieves
+- Enzo Staiola -> ACTED_IN -> Bicycle Thieves
+- Lianella Carell -> ACTED_IN -> Bicycle Thieves
+- Bicycle Thieves -> HAS_GENRE -> Drama
+- Bicycle Thieves -> PRODUCED_IN -> Italy
+- Bicycle Thieves -> RELEASED_IN -> 1948
+- Bicycle Thieves -> THEMATICALLY_RELATED_TO -> City of God
+- Bicycle Thieves -> THEMATICALLY_RELATED_TO -> Cinema Paradiso
+- Bicycle Thieves -> THEMATICALLY_RELATED_TO -> Shoplifters

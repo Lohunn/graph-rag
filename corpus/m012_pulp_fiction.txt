@@ -1,0 +1,51 @@
+MOVIE ID: m012
+TITLE: Pulp Fiction
+YEAR: 1994
+GENRES: Crime, Drama
+COUNTRY: United States
+
+DIRECTOR:
+Quentin Tarantino
+
+WRITER:
+Quentin Tarantino, Roger Avary
+
+CAST:
+- John Travolta
+- Samuel L. Jackson
+- Uma Thurman
+- Bruce Willis
+- Ving Rhames
+- Harvey Keitel
+
+PLOT:
+Several interconnected stories involving criminals, a boxer, a mysterious briefcase, and a couple of robbers unfold through a deliberately nonlinear narrative.
+
+THEMES:
+- crime
+- violence
+- redemption
+- fate
+- nonlinear storytelling
+- morality
+
+RELATED MOVIES:
+- The Godfather
+- City of God
+- The Dark Knight
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Quentin Tarantino -> DIRECTED -> Pulp Fiction
+- John Travolta -> ACTED_IN -> Pulp Fiction
+- Samuel L. Jackson -> ACTED_IN -> Pulp Fiction
+- Uma Thurman -> ACTED_IN -> Pulp Fiction
+- Bruce Willis -> ACTED_IN -> Pulp Fiction
+- Ving Rhames -> ACTED_IN -> Pulp Fiction
+- Harvey Keitel -> ACTED_IN -> Pulp Fiction
+- Pulp Fiction -> HAS_GENRE -> Crime
+- Pulp Fiction -> HAS_GENRE -> Drama
+- Pulp Fiction -> PRODUCED_IN -> United States
+- Pulp Fiction -> RELEASED_IN -> 1994
+- Pulp Fiction -> THEMATICALLY_RELATED_TO -> The Godfather
+- Pulp Fiction -> THEMATICALLY_RELATED_TO -> City of God
+- Pulp Fiction -> THEMATICALLY_RELATED_TO -> The Dark Knight

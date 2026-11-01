@@ -1,0 +1,46 @@
+MOVIE ID: m016
+TITLE: Roma
+YEAR: 2018
+GENRES: Drama
+COUNTRY: Mexico
+
+DIRECTOR:
+Alfonso Cuarón
+
+WRITER:
+Alfonso Cuarón
+
+CAST:
+- Yalitza Aparicio
+- Marina de Tavira
+- Diego Cortina Autrey
+- Marco Graf
+
+PLOT:
+A domestic worker cares for a family in Mexico City while navigating personal upheaval and broader social and political changes.
+
+THEMES:
+- family
+- class
+- memory
+- domestic work
+- loss
+- Mexico City
+
+RELATED MOVIES:
+- Pan's Labyrinth
+- A Separation
+- Shoplifters
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Alfonso Cuarón -> DIRECTED -> Roma
+- Yalitza Aparicio -> ACTED_IN -> Roma
+- Marina de Tavira -> ACTED_IN -> Roma
+- Diego Cortina Autrey -> ACTED_IN -> Roma
+- Marco Graf -> ACTED_IN -> Roma
+- Roma -> HAS_GENRE -> Drama
+- Roma -> PRODUCED_IN -> Mexico
+- Roma -> RELEASED_IN -> 2018
+- Roma -> THEMATICALLY_RELATED_TO -> Pan's Labyrinth
+- Roma -> THEMATICALLY_RELATED_TO -> A Separation
+- Roma -> THEMATICALLY_RELATED_TO -> Shoplifters

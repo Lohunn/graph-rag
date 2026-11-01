@@ -1,0 +1,49 @@
+MOVIE ID: m019
+TITLE: La La Land
+YEAR: 2016
+GENRES: Musical, Romance
+COUNTRY: United States
+
+DIRECTOR:
+Damien Chazelle
+
+WRITER:
+Damien Chazelle
+
+CAST:
+- Ryan Gosling
+- Emma Stone
+- John Legend
+- Rosemarie DeWitt
+- J. K. Simmons
+
+PLOT:
+A jazz musician and an aspiring actress fall in love while pursuing creative careers in Los Angeles, forcing them to confront the tension between romance and ambition.
+
+THEMES:
+- love
+- ambition
+- music
+- dreams
+- sacrifice
+- Los Angeles
+
+RELATED MOVIES:
+- Whiplash
+- Amélie
+- Another Round
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Damien Chazelle -> DIRECTED -> La La Land
+- Ryan Gosling -> ACTED_IN -> La La Land
+- Emma Stone -> ACTED_IN -> La La Land
+- John Legend -> ACTED_IN -> La La Land
+- Rosemarie DeWitt -> ACTED_IN -> La La Land
+- J. K. Simmons -> ACTED_IN -> La La Land
+- La La Land -> HAS_GENRE -> Musical
+- La La Land -> HAS_GENRE -> Romance
+- La La Land -> PRODUCED_IN -> United States
+- La La Land -> RELEASED_IN -> 2016
+- La La Land -> THEMATICALLY_RELATED_TO -> Whiplash
+- La La Land -> THEMATICALLY_RELATED_TO -> Amélie
+- La La Land -> THEMATICALLY_RELATED_TO -> Another Round

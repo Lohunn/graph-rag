@@ -1,0 +1,53 @@
+MOVIE ID: m002
+TITLE: Interstellar
+YEAR: 2014
+GENRES: Sci-Fi, Adventure
+COUNTRY: United States
+
+DIRECTOR:
+Christopher Nolan
+
+WRITER:
+Jonathan Nolan, Christopher Nolan
+
+CAST:
+- Matthew McConaughey
+- Anne Hathaway
+- Jessica Chastain
+- Bill Irwin
+- Ellen Burstyn
+- Michael Caine
+- Matt Damon
+
+PLOT:
+As Earth becomes increasingly difficult to inhabit, a former pilot joins a space mission through a wormhole to search for a new home for humanity.
+
+THEMES:
+- space exploration
+- time
+- love
+- survival
+- gravity
+- humanity
+
+RELATED MOVIES:
+- Inception
+- The Dark Knight
+- Arrival
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Christopher Nolan -> DIRECTED -> Interstellar
+- Matthew McConaughey -> ACTED_IN -> Interstellar
+- Anne Hathaway -> ACTED_IN -> Interstellar
+- Jessica Chastain -> ACTED_IN -> Interstellar
+- Bill Irwin -> ACTED_IN -> Interstellar
+- Ellen Burstyn -> ACTED_IN -> Interstellar
+- Michael Caine -> ACTED_IN -> Interstellar
+- Matt Damon -> ACTED_IN -> Interstellar
+- Interstellar -> HAS_GENRE -> Sci-Fi
+- Interstellar -> HAS_GENRE -> Adventure
+- Interstellar -> PRODUCED_IN -> United States
+- Interstellar -> RELEASED_IN -> 2014
+- Interstellar -> THEMATICALLY_RELATED_TO -> Inception
+- Interstellar -> THEMATICALLY_RELATED_TO -> The Dark Knight
+- Interstellar -> THEMATICALLY_RELATED_TO -> Arrival

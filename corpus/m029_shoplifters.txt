@@ -1,0 +1,48 @@
+MOVIE ID: m029
+TITLE: Shoplifters
+YEAR: 2018
+GENRES: Drama
+COUNTRY: Japan
+
+DIRECTOR:
+Hirokazu Kore-eda
+
+WRITER:
+Hirokazu Kore-eda
+
+CAST:
+- Lily Franky
+- Sakura Ando
+- Mayu Matsuoka
+- Kirin Kiki
+- Jyo Kairi
+
+PLOT:
+A poor makeshift family survives through small thefts and informal work while taking in a neglected child, challenging conventional ideas about family.
+
+THEMES:
+- family
+- poverty
+- belonging
+- parenthood
+- class
+- ethics
+
+RELATED MOVIES:
+- Parasite
+- Bicycle Thieves
+- Roma
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Hirokazu Kore-eda -> DIRECTED -> Shoplifters
+- Lily Franky -> ACTED_IN -> Shoplifters
+- Sakura Ando -> ACTED_IN -> Shoplifters
+- Mayu Matsuoka -> ACTED_IN -> Shoplifters
+- Kirin Kiki -> ACTED_IN -> Shoplifters
+- Jyo Kairi -> ACTED_IN -> Shoplifters
+- Shoplifters -> HAS_GENRE -> Drama
+- Shoplifters -> PRODUCED_IN -> Japan
+- Shoplifters -> RELEASED_IN -> 2018
+- Shoplifters -> THEMATICALLY_RELATED_TO -> Parasite
+- Shoplifters -> THEMATICALLY_RELATED_TO -> Bicycle Thieves
+- Shoplifters -> THEMATICALLY_RELATED_TO -> Roma

@@ -1,0 +1,47 @@
+MOVIE ID: m025
+TITLE: Metropolis
+YEAR: 1927
+GENRES: Sci-Fi, Drama
+COUNTRY: Germany
+
+DIRECTOR:
+Fritz Lang
+
+WRITER:
+Thea von Harbou
+
+CAST:
+- Brigitte Helm
+- Gustav Fröhlich
+- Alfred Abel
+- Rudolf Klein-Rogge
+
+PLOT:
+In a futuristic city divided between wealthy rulers and exploited workers, the son of the city's leader discovers the harsh conditions below the surface.
+
+THEMES:
+- class
+- technology
+- labor
+- industrialization
+- inequality
+- rebellion
+
+RELATED MOVIES:
+- The Matrix
+- Parasite
+- Seven Samurai
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Fritz Lang -> DIRECTED -> Metropolis
+- Brigitte Helm -> ACTED_IN -> Metropolis
+- Gustav Fröhlich -> ACTED_IN -> Metropolis
+- Alfred Abel -> ACTED_IN -> Metropolis
+- Rudolf Klein-Rogge -> ACTED_IN -> Metropolis
+- Metropolis -> HAS_GENRE -> Sci-Fi
+- Metropolis -> HAS_GENRE -> Drama
+- Metropolis -> PRODUCED_IN -> Germany
+- Metropolis -> RELEASED_IN -> 1927
+- Metropolis -> THEMATICALLY_RELATED_TO -> The Matrix
+- Metropolis -> THEMATICALLY_RELATED_TO -> Parasite
+- Metropolis -> THEMATICALLY_RELATED_TO -> Seven Samurai

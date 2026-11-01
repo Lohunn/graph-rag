@@ -1,0 +1,47 @@
+MOVIE ID: m024
+TITLE: The Lives of Others
+YEAR: 2006
+GENRES: Drama, Thriller
+COUNTRY: Germany
+
+DIRECTOR:
+Florian Henckel von Donnersmarck
+
+WRITER:
+Florian Henckel von Donnersmarck
+
+CAST:
+- Ulrich Mühe
+- Martina Gedeck
+- Sebastian Koch
+- Ulrich Tukur
+
+PLOT:
+An East German secret-police officer tasked with monitoring artists gradually becomes emotionally affected by the lives he observes.
+
+THEMES:
+- surveillance
+- privacy
+- morality
+- politics
+- art
+- loyalty
+
+RELATED MOVIES:
+- Parasite
+- The Matrix
+- Pan's Labyrinth
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Florian Henckel von Donnersmarck -> DIRECTED -> The Lives of Others
+- Ulrich Mühe -> ACTED_IN -> The Lives of Others
+- Martina Gedeck -> ACTED_IN -> The Lives of Others
+- Sebastian Koch -> ACTED_IN -> The Lives of Others
+- Ulrich Tukur -> ACTED_IN -> The Lives of Others
+- The Lives of Others -> HAS_GENRE -> Drama
+- The Lives of Others -> HAS_GENRE -> Thriller
+- The Lives of Others -> PRODUCED_IN -> Germany
+- The Lives of Others -> RELEASED_IN -> 2006
+- The Lives of Others -> THEMATICALLY_RELATED_TO -> Parasite
+- The Lives of Others -> THEMATICALLY_RELATED_TO -> The Matrix
+- The Lives of Others -> THEMATICALLY_RELATED_TO -> Pan's Labyrinth

@@ -1,0 +1,46 @@
+MOVIE ID: m021
+TITLE: Cinema Paradiso
+YEAR: 1988
+GENRES: Drama
+COUNTRY: Italy
+
+DIRECTOR:
+Giuseppe Tornatore
+
+WRITER:
+Giuseppe Tornatore, Vanna Paoli
+
+CAST:
+- Philippe Noiret
+- Salvatore Cascio
+- Marco Leonardi
+- Jacques Perrin
+
+PLOT:
+A successful filmmaker remembers his childhood friendship with a projectionist who introduced him to the magic of cinema.
+
+THEMES:
+- memory
+- cinema
+- friendship
+- nostalgia
+- childhood
+- love
+
+RELATED MOVIES:
+- Amélie
+- Roma
+- Bicycle Thieves
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Giuseppe Tornatore -> DIRECTED -> Cinema Paradiso
+- Philippe Noiret -> ACTED_IN -> Cinema Paradiso
+- Salvatore Cascio -> ACTED_IN -> Cinema Paradiso
+- Marco Leonardi -> ACTED_IN -> Cinema Paradiso
+- Jacques Perrin -> ACTED_IN -> Cinema Paradiso
+- Cinema Paradiso -> HAS_GENRE -> Drama
+- Cinema Paradiso -> PRODUCED_IN -> Italy
+- Cinema Paradiso -> RELEASED_IN -> 1988
+- Cinema Paradiso -> THEMATICALLY_RELATED_TO -> Amélie
+- Cinema Paradiso -> THEMATICALLY_RELATED_TO -> Roma
+- Cinema Paradiso -> THEMATICALLY_RELATED_TO -> Bicycle Thieves

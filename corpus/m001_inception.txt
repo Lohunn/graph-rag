@@ -1,0 +1,55 @@
+MOVIE ID: m001
+TITLE: Inception
+YEAR: 2010
+GENRES: Sci-Fi, Thriller
+COUNTRY: United States
+
+DIRECTOR:
+Christopher Nolan
+
+WRITER:
+Christopher Nolan
+
+CAST:
+- Leonardo DiCaprio
+- Joseph Gordon-Levitt
+- Elliot Page
+- Tom Hardy
+- Ken Watanabe
+- Cillian Murphy
+- Marion Cotillard
+- Michael Caine
+
+PLOT:
+A professional thief who steals secrets through shared dreaming is offered a chance to erase his criminal past by performing an apparently impossible act: planting an idea in a target's mind.
+
+THEMES:
+- dreams
+- reality
+- memory
+- identity
+- guilt
+- time
+
+RELATED MOVIES:
+- Interstellar
+- The Dark Knight
+- The Matrix
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Christopher Nolan -> DIRECTED -> Inception
+- Leonardo DiCaprio -> ACTED_IN -> Inception
+- Joseph Gordon-Levitt -> ACTED_IN -> Inception
+- Elliot Page -> ACTED_IN -> Inception
+- Tom Hardy -> ACTED_IN -> Inception
+- Ken Watanabe -> ACTED_IN -> Inception
+- Cillian Murphy -> ACTED_IN -> Inception
+- Marion Cotillard -> ACTED_IN -> Inception
+- Michael Caine -> ACTED_IN -> Inception
+- Inception -> HAS_GENRE -> Sci-Fi
+- Inception -> HAS_GENRE -> Thriller
+- Inception -> PRODUCED_IN -> United States
+- Inception -> RELEASED_IN -> 2010
+- Inception -> THEMATICALLY_RELATED_TO -> Interstellar
+- Inception -> THEMATICALLY_RELATED_TO -> The Dark Knight
+- Inception -> THEMATICALLY_RELATED_TO -> The Matrix

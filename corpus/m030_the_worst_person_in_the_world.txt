@@ -1,0 +1,45 @@
+MOVIE ID: m030
+TITLE: The Worst Person in the World
+YEAR: 2021
+GENRES: Romance, Drama
+COUNTRY: Norway
+
+DIRECTOR:
+Joachim Trier
+
+WRITER:
+Eskil Vogt, Joachim Trier
+
+CAST:
+- Renate Reinsve
+- Anders Danielsen Lie
+- Herbert Nordrum
+
+PLOT:
+A young woman in Oslo navigates relationships, career uncertainty, identity, and adulthood while trying to understand what she wants from life.
+
+THEMES:
+- identity
+- love
+- adulthood
+- career
+- uncertainty
+- relationships
+
+RELATED MOVIES:
+- Another Round
+- Chungking Express
+- The Intouchables
+
+KNOWLEDGE GRAPH RELATIONSHIPS:
+- Joachim Trier -> DIRECTED -> The Worst Person in the World
+- Renate Reinsve -> ACTED_IN -> The Worst Person in the World
+- Anders Danielsen Lie -> ACTED_IN -> The Worst Person in the World
+- Herbert Nordrum -> ACTED_IN -> The Worst Person in the World
+- The Worst Person in the World -> HAS_GENRE -> Romance
+- The Worst Person in the World -> HAS_GENRE -> Drama
+- The Worst Person in the World -> PRODUCED_IN -> Norway
+- The Worst Person in the World -> RELEASED_IN -> 2021
+- The Worst Person in the World -> THEMATICALLY_RELATED_TO -> Another Round
+- The Worst Person in the World -> THEMATICALLY_RELATED_TO -> Chungking Express
+- The Worst Person in the World -> THEMATICALLY_RELATED_TO -> The Intouchables
